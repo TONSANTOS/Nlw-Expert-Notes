@@ -10,7 +10,6 @@ interface Note {
   content: string
 }
 
-
 export function App() {
   const [search, setSearch] = useState("")
   const [notes, setNotes] = useState<Note[]>(() => {
