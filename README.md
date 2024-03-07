@@ -7,7 +7,7 @@
 - ### Descrição:
     - Blocos de Notas é uma aplicação web elegante e altamente funcional, desenvolvida com tecnologias de ponta para oferecer uma experiência de usuário excepcional. Combinando o poder do ReactJS, Typescript, Vite, TailwindCSS e integração de APIs web, este aplicativo oferece uma plataforma intuitiva para tomar notas, organizar ideias e aumentar a produtividade, tudo isso com um design responsivo que se adapta perfeitamente a qualquer dispositivo, seguindo a abordagem Mobile-First.
 
-- ### ecursos principais
+- ### Recursos principais
     - **Interface Intuitiva e Responsiva:** *Design responsivo Mobile-First para uma experiência consistente em todos os dispositivos.*
     - **Gravação de Notas em Áudio:** *Capacidade de gravar notas em áudio sem necessidade de bibliotecas adicionais.*
     - **Pesquisa Avançada:** *Pesquisa por título.*
